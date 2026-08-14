@@ -1,0 +1,33 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# IDE/editor metadata
+.vscode/
+.idea/
+
+# Compiled binaries and build output
+*.class
+*.o
+*.out
+*.exe
+*.a
+*.so
+
+# C/C++ generated executables (common local names)
+creatingnode
+delete*
+insert*
+insertion*
+queue*
+stack*
+singlylinkedlist
+doublylinkedlist
+circularlinkedlist
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
