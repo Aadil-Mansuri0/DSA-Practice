@@ -1,6 +1,8 @@
 # DSA Practice — C++ & Java
 
-> Structured interview preparation covering core Data Structures and Algorithms with clean implementations and complexity notes.
+[![C++ CI](https://github.com/Aadil-Mansuri0/DSA-Practice/actions/workflows/cpp-ci.yml/badge.svg)](https://github.com/Aadil-Mansuri0/DSA-Practice/actions/workflows/cpp-ci.yml)
+
+> Structured interview preparation covering core Data Structures and Algorithms with clean implementations, complexity notes and automated C++ compile checks.
 
 ## 🎯 Goal
 
@@ -53,6 +55,10 @@ Each new solution should document:
 3. Time complexity
 4. Space complexity
 5. Clean implementation
+
+## 🤖 Automated Quality Check
+
+Every push and pull request to `main` runs a GitHub Actions workflow that syntax-checks tracked C++ solutions with GCC using C++17, warnings and pedantic validation.
 
 ## 🛠️ Quality Rules
 
